@@ -4,3 +4,10 @@
  margin: 10px;
 }
 
+#header-nav {
+    color: darkcyan;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
